@@ -1,14 +1,4 @@
-
-== Python Version ==
-
-I'm (We're) using Python Version 3.8.10 or replace version number> for
-this assignment.
-
 == General Notes about this assignment ==
-
-Give an overview of your program, describe the important algorithms/steps 
-in your program, and discuss your experiments in general.  A few paragraphs 
-are usually sufficient.
 
 Indexing:
 Index.py reads the csv file. For each row in the csv file the program will expand
@@ -75,27 +65,3 @@ dictionary.txt  : A file containing a pickled dictionary of the terms and its co
                   idfs and a pickled dictionary of the docIDs and its corresponding lengths.
 ranked_retrieval.py  : Performs ranked retrieval, cosine similarity and rocchio formula
 boolean_retrieval.py : Performs boolean retrieval and cosine similarity to rank the documents
-
-== Statement of individual work ==
-
-Please put a "x" (without the double quotes) into the bracket of the appropriate statement.
-
-[x] I, A0218358X, certify that I have followed the CS 3245 Information
-Retrieval class guidelines for homework assignments.  In particular, I
-expressly vow that I have followed the Facebook rule in discussing
-with others in doing the assignment and did not take notes (digital or
-printed) from the discussions.  
-
-[ ] I/We, A0000000X, did not follow the class rules regarding homework
-assignment, because of the following reason:
-
-<Please fill in>
-
-We suggest that we should be graded as follows:
-
-<Please fill in>
-
-== References ==
-
-<Please list any websites and/or people you consulted with for this
-assignment and state their role>
